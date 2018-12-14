@@ -1,0 +1,20 @@
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\bin\Debug\imgReg.exe.config
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\bin\Debug\imgReg.exe
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\bin\Debug\imgReg.pdb
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.csprojResolveAssemblyReference.cache
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.Form1.resources
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.Properties.Resources.resources
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.csproj.GenerateResource.Cache
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.csproj.CoreCompileInputs.cache
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.exe
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.pdb
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\bin\Debug\imgReg.exe.config
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\bin\Debug\imgReg.exe
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\bin\Debug\imgReg.pdb
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\obj\Debug\imgReg.csprojResolveAssemblyReference.cache
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\obj\Debug\imgReg.Form1.resources
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\obj\Debug\imgReg.Properties.Resources.resources
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\obj\Debug\imgReg.csproj.GenerateResource.Cache
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\obj\Debug\imgReg.csproj.CoreCompileInputs.cache
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\obj\Debug\imgReg.exe
+F:\CS_PhD\SD4_SP18\Computer Vision 585\assignment 04_05\Submission 4\imgReg\imgReg\obj\Debug\imgReg.pdb
