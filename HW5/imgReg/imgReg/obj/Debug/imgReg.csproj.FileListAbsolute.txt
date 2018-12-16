@@ -1,0 +1,10 @@
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\bin\Debug\imgReg.exe.config
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\bin\Debug\imgReg.exe
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\bin\Debug\imgReg.pdb
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.csprojResolveAssemblyReference.cache
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.Form1.resources
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.Properties.Resources.resources
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.csproj.GenerateResource.Cache
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.csproj.CoreCompileInputs.cache
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.exe
+G:\Project Flies\CS585\Assignment 04\imgReg\imgReg\obj\Debug\imgReg.pdb
